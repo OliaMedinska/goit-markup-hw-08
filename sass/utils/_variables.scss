@@ -1,0 +1,29 @@
+/* #FFFFFF - колір фону */
+/* #2F303A - колір другорядного фону (сірий) */
+/* #F5F4FA - колір другорядного фону (сірий темний) */
+/* #ECECEC - колір рамки хедера */
+/* #EEEEEE - колір рамки карток */
+/* #AFB1B8- колір логотипів*/
+/* rgba(47, 48, 58, 0.4) -color hero-img*/
+/*rgba(255, 255, 255, 0.1); -color back for icon footer*/
+
+:root {
+    --title-text-color: #212121 ;
+    --primary-text-color: #757575 ;
+    --accent-text-color: #2196F3 ;
+    --second-text-color: #FFFFFF ;
+    --button-background-color: #F5F5F5 ;
+    --footer-background-color: #2F303A;
+    --second-text-color-footer: rgba(255, 255, 255, 0.6);
+    --footer-background-icon: rgba(255, 255, 255, 0.1);
+    --second-background-color:  #F5F4FA ;
+    --header-bording-color: #ECECEC;
+    --card-border: #EEEEEE;
+    --hero-img: rgba(47, 48, 58, 0.4);
+    --logo-color: #AFB1B8 ;
+    --input-border: rgba(33, 33, 33, 0.2);
+    --modal-header-color:#212121;
+    --close-button-color: #000;
+    --form-comment-color: rgba(117, 117, 117, 0.5);
+    --button-color-hover: #188CE8;
+}
